@@ -1,6 +1,3 @@
-pid: CowlsJ_etal_2021
-in_collection: true
-title: A definition, benchmark and database of AI for social good initiatives
 authors:
 - family: Cowls
   given: Josh
@@ -10,32 +7,37 @@ authors:
   given: Mariarosaria
 - family: Floridi
   given: Luciano
-year: '2021'
-file: CowlsJ_etal_2021.pdf
 concepts:
 - artificial_intelligence
 - sustainable_development
 - sdg
+file: CowlsJ_etal_2021.pdf
+in_collection: true
+pid: CowlsJ_etal_2021
 references:
-- Hager_1901
-- Abebe_2020
-- Green_2019
-- Ram_2019
-- Strubell_2019
-- American_2020
-- Davenport_2019
-- Oxford_2020
-- Floridi_2020
-- Zhou_2020
-- Hilbert_2016
-- Taylor_2015
-- Floridi_2019
-- Taddeo_2018
-- Vinuesa_2020
-- Chui_2018
-- Good_2019
-- Strickland_2019
-- Ross_2017
-- Dandres_2015
-- Strubell_1906
-- Shrestha_2019
+- HagerGD_etal_2017
+- WangD_etal_2016
+- DavenportT_KalakotaR_2019
+- RolnickD_etal_2019
+- ZhouY_etal_2020
+- HilbertM_2016
+- TaylorL_SchroederR_2015
+- FloridiL_CowlsJ_2019
+- TaddeoM_FloridiL_2018
+- VinuesaR_etal_2020
+- ChuiM_etal_2018
+- ITUI_2020
+- AIforGoodA_2019
+- StricklandE_2019
+- RossC_SwetlitzI_2017
+- GoelA_etal_2015
+- AbebeR_etal_2019
+- GreenB_2019
+- UNDPU_2015
+- RamA_2019
+- StrubellE_etal_2019a
+- StrubellE_etal_2019b
+- DandresT_etal_2017
+- ShresthaP_2019
+title: A definition, benchmark and database of AI for social good initiatives
+year: '2021'

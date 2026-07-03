@@ -20,28 +20,6 @@
   RamírezRíos,J.F.,AlzateIbáñez,A.M.,andMontenegroRiaño,D.F.(2016). doi:10.1007/s11192-017-2300-7 Losdiscursosdelasostenibilidad:análisisdetendenciascon
   SustainableDevelopmentReport2019.NewYork,NY:BertelsmannStiftungand N.J.,etal.(2012).TheLeidenranking2011/2012:datacollection,indicators, SustainableDe
 
---- CowlsJ_etal_2021 ---
-6 UNPARSED REFS
-  19. United Nations Development Program (UNDP) Sustainable Development
-
-Goals. https://www.undp.org/content/undp/en/home/
-sustainable-development-goals
-  2.  Wang, D., Khosla, A., Gargeya, R., Irshad, H. & Beck, A. H. Deep learning
-
-  22. Inter-American Development Bank fAIrLAC Observatory (IADB, 2020);
-
-for identifying metastatic breast cancer. Preprint at https://arxiv.org/
-abs/16
-  4.  Rolnick, D. et al. Tackling climate change with machine learning. Preprint at
-
-https://fairlac.iadb.org/en/observatory
-
-  12. International Telecommunication Union (ITU) AI Repository; https://www.itu.
-
-int/en/ITU-T/AI/Pages/ai-repository.aspx
-
-  16. Goel, A. et al. Using Watson for enhancing human-computer co-creativity. In
-
 
 --- NedungadiP_etal_2024 ---
 49 UNPARSED REFS
