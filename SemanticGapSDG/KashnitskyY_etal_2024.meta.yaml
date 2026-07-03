@@ -1,0 +1,53 @@
+pid: KashnitskyY_etal_2024
+in_collection: true
+title: Evaluating approaches to identifying research supporting the United Nations
+  Sustainable Development Goals
+authors:
+- family: Kashnitsky
+  given: Yury
+- family: Roberge
+  given: Guillaume
+- family: Mu
+  given: Jingwen
+- family: Kang
+  given: Kevin
+- family: Wang
+  given: Weiwei
+- family: Vanderfeesten
+  given: Maurice
+- family: Rivest
+  given: Maxime
+- family: Chamezopoulos
+  given: Savvas
+- family: Jaworek
+  given: Robert
+- family: Vignes
+  given: Maéva
+- family: Jayabalasingham
+  given: Bamini
+- family: Boonen
+  given: Finne
+- family: James
+  given: Chris
+- family: Doornenbal
+  given: Marius
+- family: Labrosse
+  given: Isabelle
+year: '2024'
+file: KashnitskyY_etal_2024.pdf
+concepts:
+- sdg_classification
+- sustainable_development
+- bibliometrics
+references:
+- Armitage_2024
+- BedardVallee_2023
+- Bordignon_2021
+- Confraria_2022
+- DuranSilva_2019
+- Jayabalasingham_2019
+- Jingwen_2022
+- Nakamura_2019
+- Vanderfeesten_2020
+- Wang_2023
+- Wastl_2020

@@ -1,0 +1,26 @@
+pid: RodriguezPL_etal_2023
+in_collection: true
+title: 'Embedding Regression: Models for Context-Specific Description and Inference'
+authors:
+- family: Rodriguez
+  given: Pedro L.
+- family: Spirling
+  given: Arthur
+- family: Stewart
+  given: Brandon M.
+year: '2023'
+file: RodriguezPL_etal_2023.pdf
+concepts:
+- semantic_methods
+- computational_linguistics
+- nlp
+references:
+- Joanna_2017
+- David_2019
+- Xiv_1908
+- Khodak_2018
+- Sara_2021
+- Rodman_2020
+- Rodriguez_2022
+- Salvatore_2022
+- Amy_2013

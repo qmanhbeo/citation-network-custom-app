@@ -1,0 +1,12 @@
+pid: BiberD_1988
+in_collection: true
+title: Variation across speech and writing
+authors:
+- family: Biber
+  given: Douglas
+year: '1988'
+file: BiberD_1988.pdf
+concepts:
+- semantic_methods
+- computational_linguistics
+- nlp

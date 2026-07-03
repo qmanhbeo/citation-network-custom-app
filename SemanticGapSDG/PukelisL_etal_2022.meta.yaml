@@ -1,0 +1,34 @@
+pid: PukelisL_etal_2022
+in_collection: true
+title: 'OSDG 2.0: a multilingual tool for classifying text data by UN Sustainable
+  Development Goals (SDGs)'
+authors:
+- family: Pukelis
+  given: Lukas
+- family: Bautista-Puig
+  given: Nuria
+- family: Statulevičiūtė
+  given: Gustė
+- family: Stančiauskas
+  given: Vilius
+- family: Dikmener
+  given: Gokhan
+- family: Akylbekova
+  given: Dina
+year: '2022'
+file: PukelisL_etal_2022.pdf
+concepts:
+- sdg_classification
+- sustainable_development
+- bibliometrics
+references:
+- Armitage_2020
+- Koundouri_2022
+- Lei_2022
+- Data_2022
+- Pukelis_2020
+- Pukelis_2019
+- Purnell_2022
+- Snchez_2022
+- UCL_2021
+- Wang_2020

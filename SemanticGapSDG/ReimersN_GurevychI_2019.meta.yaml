@@ -1,0 +1,14 @@
+pid: ReimersN_GurevychI_2019
+in_collection: true
+title: 'Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks'
+authors:
+- family: Reimers
+  given: Nils
+- family: Gurevych
+  given: Iryna
+year: '2019'
+file: ReimersN_GurevychI_2019.pdf
+concepts:
+- semantic_methods
+- computational_linguistics
+- nlp

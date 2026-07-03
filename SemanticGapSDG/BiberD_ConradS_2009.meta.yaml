@@ -1,0 +1,14 @@
+pid: BiberD_ConradS_2009
+in_collection: true
+title: Register, Genre, and Style
+authors:
+- family: Biber
+  given: Douglas
+- family: Conrad
+  given: Susan
+year: '2009'
+file: BiberD_ConradS_2009.pdf
+concepts:
+- semantic_methods
+- computational_linguistics
+- nlp

@@ -1,0 +1,21 @@
+pid: MarelliM_etal_2014
+in_collection: true
+title: 'SemEval-2014 Task 1: Evaluation of Compositional Distributional Semantic Models
+  on Full Sentences through Semantic Relatedness and Textual Entailment'
+authors:
+- family: Marelli
+  given: Marco
+- family: Bentivogli
+  given: Luisa
+- family: Baroni
+  given: Marco
+- family: Bernardi
+  given: Raffaella
+- family: Menini
+  given: Stefano
+year: '2014'
+file: MarelliM_etal_2014.pdf
+concepts:
+- semantic_methods
+- computational_linguistics
+- nlp

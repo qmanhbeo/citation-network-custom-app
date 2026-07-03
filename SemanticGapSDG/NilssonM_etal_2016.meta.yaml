@@ -1,0 +1,19 @@
+pid: NilssonM_etal_2016
+in_collection: true
+title: Map the interactions between Sustainable Development Goals
+authors:
+- family: Nilsson
+  given: Måns
+- family: Griggs
+  given: Dave
+- family: Visbeck
+  given: Martin
+year: '2016'
+file: NilssonM_etal_2016.pdf
+concepts:
+- sdg_classification
+- sustainable_development
+- bibliometrics
+references:
+- Hakkila_2006
+- Foley_2011

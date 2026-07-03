@@ -1,0 +1,28 @@
+pid: PriemJ_etal_2022
+in_collection: true
+title: 'OpenAlex: A fully-open index of scholarly works, authors, venues, institutions,
+  and concepts'
+authors:
+- family: Priem
+  given: Jason
+- family: Piwowar
+  given: Heather
+- family: Orr
+  given: Richard
+year: '2022'
+file: PriemJ_etal_2022.pdf
+concepts:
+- research_infrastructure
+- open_science
+- scholarly_communication
+references:
+- Ammar_2018
+- Bilder_2020
+- Fenner_2019
+- Jaradeh_2019
+- Manghi_2019
+- Peroni_2017
+- Sinha_2015
+- Conference_2022
+- Tang_2008
+- Alberto_2021

@@ -1,0 +1,32 @@
+pid: ArmitageCS_etal_2020
+in_collection: true
+title: 'Mapping scholarly publications related to the Sustainable Development Goals:
+  Do independent bibliometric approaches get the same results?'
+authors:
+- family: Armitage
+  given: Caroline S.
+- family: Lorenz
+  given: Marco
+- family: Mikki
+  given: Susanne
+year: '2020'
+file: ArmitageCS_etal_2020.pdf
+concepts:
+- sdg_classification
+- sustainable_development
+- bibliometrics
+references:
+- Aksnes_2019
+- Armitage_2020
+- Chu_2017
+- Food_2019
+- Gluckman_2016
+- Haunschild_2016
+- Hazelkorn_2009
+- Hjrland_2015
+- Reid_2009
+- Schmoch_2015
+- Times_2018
+- Times_2019
+- Torabian_2019
+- United_2019

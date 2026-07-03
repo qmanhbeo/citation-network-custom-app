@@ -36,6 +36,7 @@ def register_collection(name, base_dirname):
     }
 
 register_collection("EnergyBurden", "EnergyBurden")
+register_collection("SemanticGapSDG", "SemanticGapSDG")
 
 def load_vocab(collection=None):
     vocab = {}
