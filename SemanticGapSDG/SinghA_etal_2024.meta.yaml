@@ -1,7 +1,3 @@
-pid: SinghA_etal_2024
-in_collection: true
-title: 'Artificial intelligence for Sustainable Development Goals: Bibliometric patterns
-  and concept evolution trajectories'
 authors:
 - family: Singh
   given: Aakash
@@ -11,9 +7,77 @@ authors:
   given: Vivek Kumar
 - family: Vinuesa
   given: Ricardo
-year: '2024'
-file: SinghA_etal_2024.pdf
 concepts:
 - artificial_intelligence
 - sustainable_development
 - sdg
+file: SinghA_etal_2024.pdf
+in_collection: true
+pid: SinghA_etal_2024
+references:
+- AllenC_etal_2020
+- AndersonEF_etal_2010
+- ArrietaAB_etal_2020
+- BatageljV_2003
+- BaumK_etal_2023
+- BiswasG_etal_2005
+- BorgattiSP_2005
+- BrughmansT_2013
+- ChaouachiA_etal_2012
+- ChiangM_ZhangT_2016
+- ChuiM_etal_2018
+- DeSollaPriceDJ_1965
+- DengL_LiX_2013
+- DonthuN_etal_2021
+- DresselJ_FaridH_2018
+- FarrukhM_etal_2020
+- FoleyAM_etal_2012
+- FotovatikhahF_etal_2018
+- GarfieldE_etal_1964
+- GohHH_VinuesaR_2021
+- GoralskiMA_TanTK_2020
+- GraesserAC_etal_2004
+- GuptaS_etal_2021
+- HaenleinM_KaplanA_2019
+- HummonNP_DereianP_1989
+- JainRK_etal_2014
+- JoSJ_etal_2009
+- JungM_etal_2010
+- KesslerRC_etal_2015
+- KongW_etal_2017
+- KumarS_etal_2021
+- LambinP_etal_2017
+- LathabaiHH_etal_2018
+- LathabaiHH_etal_2015
+- LathabaiHH_etal_2017
+- LiL_etal_2020
+- LiX_etal_2017
+- LiengpunsakulS_2021
+- LiuJS_LuLY_2012
+- LiuY_etal_2023
+- MinaA_etal_2007
+- MoavenzadehJ_2015
+- MuthukrishnanN_etal_2020
+- NationalStrategyforAI_2018
+- PrabhakaranT_etal_2015
+- PrabhakaranT_etal_2018
+- RajkomarA_etal_2018
+- RudinC_2019
+- SaetraHS_2021
+- SandermanJ_etal_2017
+- ScardoniG_LaudannaC_2012
+- SinghA_etal_2022
+- SinghVK_etal_2021
+- StefanovDH_etal_2004
+- TampubolonG_RamloganR_2007
+- VanGriethuysenJJ_etal_2017
+- VinuesaR_etal_2020
+- VinuesaR_SirmacekB_2021
+- VinuesaR_etal_2020a
+- VoyantC_etal_2017
+- WambaSF_etal_2021
+- YehSC_etal_2021
+- ZhaoHX_MagoulesF_2012
+title: 'Artificial intelligence for Sustainable Development Goals: Bibliometric patterns
+  and concept evolution trajectories'
+year: '2024'
