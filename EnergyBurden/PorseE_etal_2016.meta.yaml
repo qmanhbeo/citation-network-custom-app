@@ -1,0 +1,91 @@
+pid: PorseE_etal_2016
+in_collection: true
+title: 'Structural, geographic, and social factors in urban building energy use: Analysis
+  of aggregated account-level consumption data in a megacity'
+authors:
+- Porse, E.
+- Derenski, J.
+- Gustafson, H.
+- Elizabeth, Z.
+- Pincetl, S.
+year: 2016
+file: PorseE_etal_2016.pdf
+type: empirical
+region:
+- US
+- north_america
+- Los Angeles
+- urban
+concepts:
+- energy_burden
+- urban_vulnerability
+- income_effect
+- income_elasticity
+- housing_quality
+- housing_tenure
+- demographics
+- heating_cooling_needs
+- population_density
+- policy_intervention
+- climate_context
+key_finding: Building energy use varies widely across metropolitan Los Angeles. Building
+  age, household income, home ownership rates, and land use are all correlated with
+  energy consumption. High-income areas use more energy per building, while lower-income
+  areas use more energy per square-foot, correlating with older building ages in lower-income
+  neighborhoods.
+references:
+- BrownR_2012
+- BrownRE_KoomeyJG_2003
+- BrownswordRA_etal_2005
+- CallahanC_etal_2014
+- CPUC_2016a
+- CPUC_2016b
+- CPUC_2015
+- EIA_2013
+- EIA_2005
+- EttensonL_2014
+- GellerH_etal_2006
+- GreenButtonAlliance_2015a
+- GreenButtonAlliance_2015b
+- GreeningL_etal_2000
+- HeipleS_SailorDJ_2008
+- HobbsJ_2015
+- HowardB_etal_2012
+- KolterJZ_BatraS_NgAY_2010
+- KolterJZ_JohnsonMJ_2011
+- MollHC_etal_2008
+- MorrisseyJ_HorneRE_2011
+- MullalyC_1998
+- NeenanB_RobinsonJ_2009
+- OikonomouV_etal_2009
+- PaateroJV_LundPD_2006
+- PalmerK_etal_2013
+- PerezLombardL_etal_2008
+- PincetlS_etal_2012
+- PincetlS_etal_2015
+- PincetlS_LAEnergyAtlas_2015
+- ReissPC_WhiteMW_2005
+- ReynaJL_ChesterMV_2015
+- RichardsonI_etal_2010
+- RitchieJRB_etal_1981
+- SadineniSB_etal_2011
+- SwanLG_UgursalVI_2009
+- USCensus_2011
+- USDOE_2013
+- USDOE_2011
+- USEIA_2015a
+- USEIA_2015b
+- USEIA_2015c
+- WidenJ_etal_2009
+- YamaguchiY_etal_2007
+- CARB_2016
+- CEC_2015
+- ESRI_2012
+- LACDPW_2012
+- LACounty_2015
+- LACountyAssessor_2008
+- LATimes_2015
+- PythonSoftwareFoundation_2001
+- QGISDevelopmentTeam_2014
+- SASInstitute_2015
+- ACEEE_2014

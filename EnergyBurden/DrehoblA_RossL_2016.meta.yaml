@@ -1,0 +1,85 @@
+authors:
+- Drehobl, A.
+- Ross, L.
+concepts:
+- energy_burden
+- energy_efficiency
+- low_income
+file: DrehoblA_RossL_2016.pdf
+in_collection: true
+pid: DrehoblA_RossL_2016
+references:
+  - BrownM_2008
+  - BrunerK_etal_2012
+  - BurcatL_PowerM_2013
+  - CarlinerM_2013
+  - CensusBureau_2011
+  - CensusBureau_2013a
+  - CensusBureau_2013b
+  - CensusBureau_2014
+  - CluettR_AmannJ_2015
+  - CluettR_etal_2016
+  - CNT_2016
+  - CollinsM_2015
+  - Massachusetts_2008
+  - DearK_McMichaelA_2011
+  - DeSilverD_2015
+  - DOE_2014
+  - DOE_2015
+  - EfficiencyVermont_2013
+  - EIA_2009
+  - EIA_2013
+  - EIA_2015
+  - EIA_2016a
+  - EIA_2016b
+  - EPA_2012
+  - EPA_2016
+  - EPC_2013a
+  - EPC_2013b
+  - FisherSheehanColton_2013
+  - FrankM_NowakS_2016
+  - HeindlP_2015
+  - HernandezD_2015
+  - HernandezD_BirdS_2010
+  - HeymanB_etal_2011
+  - HoffmanI_etal_2015
+  - IEA_2014
+  - JacksonA_2011
+  - JohnsonK_2013
+  - JohnsonK_MackresE_2013
+  - KallayJ_etal_2015
+  - KindP_2015
+  - KushlerM_etal_2012
+  - LevyR_SledgeJ_2012
+  - LiK_etal_2014
+  - LiddellC_MorrisC_2010
+  - LiddellC_etal_2012
+  - LIHEAPClearinghouse_2016
+  - LundinB_2016
+  - MalmgrenI_SkumatzL_2014
+  - MarshRobinsonM_2016
+  - MazurStommenS_FarleyK_2013
+  - McCormickK_2015
+  - MooreR_2012
+  - MosenthalP_SocksM_2015
+  - NAACP_2015
+  - NevadaState_2013
+  - NMHC_2015
+  - NYSERDA_2013a
+  - NYSERDA_2013b
+  - OppenheimJ_MacGregorT_2014
+  - PenneyB_KloerP_2015
+  - PennsylvaniaPUC_2016
+  - PerlL_2012
+  - PivoG_2014
+  - RasmussenT_etal_2014
+  - RGGI_2015
+  - RibeiroD_etal_2015a
+  - RibeiroD_etal_2015b
+  - RossT_2013
+region:
+- united_states
+title: 'Lifting the High Energy Burden in America''s Largest Cities: How Energy Efficiency
+  Can Improve Low Income and Underserved Communities'
+type: report
+year: 2016

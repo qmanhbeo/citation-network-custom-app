@@ -1,0 +1,126 @@
+# Concept vocabulary for EnergyBurden literature graph
+# Each concept: short key, label, description
+
+measurement:
+  energy_burden:
+    label: "Energy burden"
+    desc: "Share of household income spent on energy (expenditure/income ratio)"
+  energy_poverty:
+    label: "Energy poverty"
+    desc: "Inability to afford adequate energy services (broader framing)"
+  fuel_poverty:
+    label: "Fuel poverty"
+    desc: "European/UK framing centered on heating affordability"
+  threshold_indicator:
+    label: "Threshold indicators"
+    desc: "Fixed cutoffs like 10%, 6%, 2M (double median)"
+  lihc:
+    label: "Low Income High Cost"
+    desc: "LIHC indicator combining low income with high energy costs"
+  hidden_energy_poverty:
+    label: "Hidden energy poverty"
+    desc: "Underconsumption masked by low bills; households ration energy"
+  access_based:
+    label: "Access-based framing"
+    desc: "Defining poverty by lack of electricity/gas connection or clean fuels"
+
+urbanization_spatial:
+  urban_transport:
+    label: "Urban transport energy"
+    desc: "Commuting, motorization, congestion increasing energy expenditure"
+  urban_heat_island:
+    label: "Urban heat island"
+    desc: "Elevated city temperatures increasing cooling demand and AC use"
+  rural_vulnerability:
+    label: "Rural vulnerability"
+    desc: "Rural households face higher burdens due to fuel/ infrastructure/housing gaps"
+  urban_vulnerability:
+    label: "Urban vulnerability"
+    desc: "Urban households face higher burdens due to prices, poor housing, inequity"
+  urbanization_elasticity:
+    label: "Urbanization elasticity"
+    desc: "How energy consumption scales with urbanization rate"
+  population_density:
+    label: "Population density effects"
+    desc: "Non-linear relationships between density and energy poverty"
+  urban_rural_comparison:
+    label: "Urban-rural comparison"
+    desc: "Direct comparison of energy poverty/burden across urban and rural areas"
+
+drivers:
+  income_effect:
+    label: "Income effect"
+    desc: "Changes in income affecting energy burden (denominator effect)"
+  income_elasticity:
+    label: "Income elasticity"
+    desc: "Elasticity of energy expenditure with respect to income (typically <1)"
+  energy_prices:
+    label: "Energy prices"
+    desc: "Price levels and shocks affecting affordability"
+  housing_quality:
+    label: "Housing quality"
+    desc: "Insulation, heating systems, dwelling age, building efficiency"
+  housing_tenure:
+    label: "Housing tenure"
+    desc: "Renting vs owning effects on energy burden"
+  demographics:
+    label: "Demographics"
+    desc: "Age, gender, household composition, ethnicity effects"
+  education_efficiency:
+    label: "Education and energy efficiency"
+    desc: "Education enabling energy-saving behavior and efficiency decisions"
+  asset_ownership:
+    label: "Asset/Appliance ownership"
+    desc: "Effects of appliance/TV/AC/fridge ownership on energy burden"
+  employment:
+    label: "Employment type"
+    desc: "Wage, self, agricultural employment effects on energy burden"
+  heating_cooling_needs:
+    label: "Heating/cooling needs"
+    desc: "Climate-driven energy demand for temperature regulation"
+
+mechanisms:
+  fuel_choice:
+    label: "Fuel choice"
+    desc: "Selection between traditional biomass, modern fuels, electricity"
+  biomass_dependence:
+    label: "Biomass dependence"
+    desc: "Reliance on firewood, charcoal, agricultural waste for energy"
+  fuel_switching:
+    label: "Fuel switching"
+    desc: "Transition between energy sources (e.g., traditional to modern)"
+  modern_displacement:
+    label: "Modern displacement"
+    desc: "Urbanization replacing traditional energy with commercial energy"
+  path_dependency:
+    label: "Path dependency"
+    desc: "Historical lock-in of inefficient housing, heating systems, infrastructure"
+  agricultural_mechanization:
+    label: "Agricultural mechanization"
+    desc: "Energy use change from traditional to mechanized agriculture"
+  lifestyle_behavior:
+    label: "Lifestyle and behavior"
+    desc: "Urban lifestyles changing consumption patterns and energy needs"
+
+consequences_context:
+  health:
+    label: "Health consequences"
+    desc: "Physical/mental health effects of energy poverty"
+  education_outcomes:
+    label: "Education outcomes"
+    desc: "Effects of energy poverty on schooling and education"
+  energy_justice:
+    label: "Energy justice"
+    desc: "Equity, race, distributional dimensions of energy burden"
+  energy_crisis:
+    label: "Energy crisis"
+    desc: "Geopolitical shocks, price spikes, cost-of-living impacts"
+  climate_context:
+    label: "Climate context"
+    desc: "Role of climate zone, heating/cooling degree days"
+  policy_intervention:
+    label: "Policy intervention"
+    desc: "Subsidies, weatherization, efficiency programs, bill assistance"
+  housing_energy_efficiency:
+    label: "Housing energy efficiency"
+    desc: "Retrofits, weatherization, efficiency programs for housing"
