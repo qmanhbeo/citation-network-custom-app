@@ -1,14 +1,31 @@
-pid: CaplanN_1979
-in_collection: true
-title: The Two-Communities Theory and Knowledge Utilization
 authors:
 - family: Caplan
   given: Nathan
-year: '1979'
-file: CaplanN_1979.pdf
 concepts:
 - research_policy_theory
 - science_policy
 - knowledge_utilization
+file: CaplanN_1979.pdf
+in_collection: true
+pid: CaplanN_1979
 references:
-- New_1975
+- CaplanN_1976a
+- CaplanN_1976b
+- CaplanN_1974
+- CaplanN_MorrisonA_StambaughR_1975
+- FrankelC_1969
+- GlaserE_TaylorSH_1971
+- HararyF_HavelockR_1972
+- HavelockR_1971
+- KatzE_LazarsfeldTS_1955
+- KnorrKD_1976
+- LippittR_1964
+- PoppenP_1968
+- RichRF_1975
+- RogersE_1962
+- RogersE_SchumacherF_1971
+- ScribnerR_ChaikR_1977
+- WeissC_1977
+- WeissC_1976
+title: The Two-Communities Theory and Knowledge Utilization
+year: '1979'
