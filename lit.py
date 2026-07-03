@@ -412,10 +412,11 @@ def cmd_viz(papers, pid=None, collection_only=False, concept=None, output=None, 
         uncited_flag = is_uncited(p)
         deg = cit_count.get(nid, 0)
         size = max(10, min(50, 3 + deg * 2)) if in_coll else 8
+        coll = p.get("_collection", "unknown")
         if uncited_flag:
-            color_hex = "#00897B"
+            color_hex = "#FB8C00" if coll == "SemanticGapSDG" else "#00897B"
         elif in_coll:
-            color_hex = "#2196F3"
+            color_hex = "#E53935" if coll == "SemanticGapSDG" else "#2196F3"
         else:
             color_hex = "#B0BEC5"
         cs = p.get("concepts", [])
@@ -651,14 +652,16 @@ const options = {{
     smooth: {{ type:'continuous' }}
   }},
   physics: {{
-    barnesHut: {{ gravitationalConstant:-8000, centralGravity:0.3, springLength:200, springConstant:0.04, damping:0.09 }},
-    stabilization: {{ iterations:100 }},
-    minVelocity: 0.75, solver: 'barnesHut'
+    barnesHut: {{ gravitationalConstant: -8000, centralGravity: 0.3, springLength: 200, springConstant: 0.04, damping: 0.09 }},
+    stabilization: {{ iterations: 300 }},
+    minVelocity: 0.75,
+    solver: 'barnesHut'
   }},
   interaction: {{ tooltipDelay:200, hover:true }}
 }};
 
 network = new vis.Network(container, {{ nodes:allNodes, edges:allEdges }}, options);
+network.once('stabilized', function() {{ network.setOptions({{ physics: false }}); }});
 
 function renderModal(id) {{
   selectedNodeId = id;
