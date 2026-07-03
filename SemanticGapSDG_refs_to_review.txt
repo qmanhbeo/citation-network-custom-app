@@ -466,27 +466,6 @@ org/ 10. 10
 
 
 
---- StraussI_etal_2025 ---
-TABLE-MANGLED REFS
-[54] Simon Mylius and Jamie Bernadi. Scalable ai incident classification, 2024. URL
-https:
-| //simonmylius.com/blog/incident-classification. |     |     |     |     |     |     |     |     |     | Blog | post. |     |     |
-| ----------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
-[55] Richard Ngo, Lawrence Chan, and Sören Mindermann. The alignment problem from a
-| deep | learning |     | perspective. |     |       |          | arXiv:2209.00626, |     |     |     | 2022. |     |     |
-| ---- | -------- | --- | ------------ | --- | ----- | -------- | ----------------- | --- | --- | --- | ----- | --- | --- |
-|      |          |     |              |     | arXiv | preprint |                   |     |     |     |       |     |     |
-[56] Parmy Olson. Supremacy: AI, ChatGPT, and the Race that Will Change the World.
-| St. Martin’s |     | Press, | 2024. |     |     |     |     |     |     |     |     |     |     |
-| ------------ | --- | ------ | ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-[57] OpenAI. How to implement llm guardrails, 2023. URL https://cookbook.openai.
-| com/examples/how_to_use_guardrails. |     |     |     |           |     |     | Accessed: |       | 2025-04-29. |                           |     |     |     |
-| ----------------------------------- | --- | --- | --- | --------- | --- | --- | --------- | ----- | ----------- | ------------------------- | --- | --- | --- |
-| [58] OpenAI.                        |     |     |     | Influence |     | and |           | cyber |             | operations:               |     | An  | up- |
-| date,                               |     | 10  |     | 2024.     |     |     |           | URL   |             | https://openai.com/index/ |     |     |     |
-disrupting-deceptive-uses-of-AI-by-covert-influence-operations.
-| [59] OpenAI. |     | Safety | best | practices. |     |     |     |     |     |     |     |     |     |
-| ---
 
 --- CurleeK_etal_2024 ---
 17 UNPARSED REFS
