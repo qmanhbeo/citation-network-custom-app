@@ -1,3 +1,5 @@
+pid: RudinC_2019
+in_collection: false
 journal: Nature Machine Intelligence
 title: Stop explaining black box machine learning models for high stakes decisions
   and use interpretable models instead

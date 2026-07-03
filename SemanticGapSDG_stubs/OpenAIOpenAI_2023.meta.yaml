@@ -1,3 +1,5 @@
+pid: OpenAIOpenAI_2023
+in_collection: false
 journal: OpenAI Cookbook
 title: How to implement llm guardrails
 year: 2023

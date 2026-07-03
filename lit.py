@@ -368,7 +368,6 @@ def cmd_viz(papers, pid=None, collection_only=False, concept=None, output=None, 
             output = os.path.join(LIT_DIR, f"{collection}_network.html")
         else:
             output = os.path.join(LIT_DIR, "citation_network.html")
-
     # filter nodes
     nodes = {}
     for pid0, p in papers.items():
@@ -444,6 +443,7 @@ def cmd_viz(papers, pid=None, collection_only=False, concept=None, output=None, 
             "label": nid,
             "size": size,
             "color": color_hex,
+            "collection": p.get("_collection", "unknown"),
             "in_collection": in_coll,
             "uncited": uncited_flag,
             "title": p.get("title", ""),
@@ -476,13 +476,18 @@ def cmd_viz(papers, pid=None, collection_only=False, concept=None, output=None, 
     max_year = 2025 if max_year == 0 else max_year
 
     import json
+    all_collections = sorted({n["collection"] for n in node_list})
+    # count per-collection per-tier
+    coll_counts = {}
+    for coll in all_collections:
+        ic = sum(1 for n in node_list if n["collection"] == coll and n["in_collection"] and not n["uncited"])
+        uncited = sum(1 for n in node_list if n["collection"] == coll and n["uncited"])
+        stub = sum(1 for n in node_list if n["collection"] == coll and not n["in_collection"] and not n["uncited"])
+        coll_counts[coll] = {"ic": ic, "uncited": uncited, "stub": stub}
     data_json = json.dumps({"nodes": node_list, "edges": edge_list,
                             "concepts": all_concepts, "regions": all_regions,
+                            "collections": all_collections, "collCounts": coll_counts,
                             "minYear": min_year, "maxYear": max_year})
-    # count prefixes for toggle labels
-    ic_count = sum(1 for n in node_list if n["in_collection"] and not n["uncited"])
-    uncited_count = sum(1 for n in node_list if n["uncited"])
-    stub_count = len(node_list) - ic_count - uncited_count
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -554,10 +559,8 @@ body {{ font-family:'Segoe UI',system-ui,sans-serif; display:flex; height:100vh;
   <h1>🔬 Citation Explorer</h1>
   <div class="sub">{len(node_list)} papers · {len(edge_list)} citations</div>
     <div class="ctrl">
-      <label>VISIBILITY</label>
-      <label class="tgl"><input type="checkbox" id="chkColl" checked onchange="filter()"><span>Cited <b>({ic_count})</b></span></label>
-      <label class="tgl"><input type="checkbox" id="chkUncited" checked onchange="filter()"><span>Uncited <b>({uncited_count})</b></span></label>
-      <label class="tgl"><input type="checkbox" id="chkStub" checked onchange="filter()"><span>Stubs <b>({stub_count})</b></span></label>
+      <label>COLLECTION VISIBILITY</label>
+      <div id="collection-toggles"></div>
     </div>
   <div class="ctrl">
     <label for="search">SEARCH</label>
@@ -625,6 +628,19 @@ Object.keys(typeCounts).sort().forEach(t => {{
   label.innerHTML = `<input type="checkbox" checked onchange="filter()"> <span>${{t}} <b>(${{typeCounts[t]}})</b></span>`;
   label.querySelector('input').dataset.type = t;
   typesDiv.appendChild(label);
+}});
+
+// build collection visibility toggles
+const collTogglesDiv = document.getElementById('collection-toggles');
+const tierLabels = {{ 'ic': 'Cited', 'uncited': 'Uncited', 'stub': 'Stubs' }};
+DATA.collections.forEach(coll => {{
+  const counts = DATA.collCounts[coll];
+  ['ic', 'uncited', 'stub'].forEach(tier => {{
+    const label = document.createElement('label');
+    label.className = 'tgl';
+    label.innerHTML = `<input type="checkbox" checked onchange="filter()" data-combo="${{coll}}_${{tier}}"> <span>${{coll}} ${{tierLabels[tier]}} <b>(${{counts[tier]}})</b></span>`;
+    collTogglesDiv.appendChild(label);
+  }});
 }});
 
 const options = {{
@@ -722,9 +738,10 @@ network.on('click', function(params) {{
 document.addEventListener('keydown', function(e) {{ if (e.key === 'Escape' && overlayOpen) hideModal(); }});
 
 function filter() {{
-  const showColl = document.getElementById('chkColl').checked;
-  const showUncited = document.getElementById('chkUncited').checked;
-  const showStub = document.getElementById('chkStub').checked;
+  const visibleCombos = new Set();
+  document.querySelectorAll('#collection-toggles input[type=checkbox]').forEach(cb => {{
+    if (cb.checked) visibleCombos.add(cb.dataset.combo);
+  }});
   const q = document.getElementById('search').value.toLowerCase().trim();
   const concept = document.getElementById('concept').value;
   const region = document.getElementById('region').value;
@@ -738,13 +755,8 @@ function filter() {{
 
   const idsToShow = new Set();
   DATA.nodes.forEach(n => {{
-    if (n.uncited) {{
-      if (!showUncited) return;
-    }} else if (n.in_collection) {{
-      if (!showColl) return;
-    }} else {{
-      if (!showStub) return;
-    }}
+    const tier = n.uncited ? 'uncited' : (n.in_collection ? 'ic' : 'stub');
+    if (!visibleCombos.has(n.collection+'_'+tier)) return;
     if (q) {{
       const haystack = (n.id+' '+n.title+' '+n.concepts.join(' ')+' '+n.authors.join(' ')).toLowerCase();
       if (!haystack.includes(q)) return;
@@ -788,9 +800,7 @@ function resetView() {{
   document.getElementById('concept').value = '';
   document.getElementById('region').value = '';
   document.getElementById('minCit').value = 0;
-  document.getElementById('chkColl').checked = true;
-  document.getElementById('chkUncited').checked = true;
-  document.getElementById('chkStub').checked = true;
+  document.querySelectorAll('#collection-toggles input[type=checkbox]').forEach(cb => cb.checked = true);
   document.getElementById('yearLo').value = DATA.minYear;
   document.getElementById('yearHi').value = DATA.maxYear;
   document.querySelectorAll('#types input[type=checkbox]').forEach(cb => cb.checked = true);

@@ -1,3 +1,5 @@
+pid: LuoE_etal_2025
+in_collection: false
 journal: ACM WSDM
 title: Zero-shot image moderation in google ads with llm-assisted textual descriptions
   and cross-modal co-embeddings
