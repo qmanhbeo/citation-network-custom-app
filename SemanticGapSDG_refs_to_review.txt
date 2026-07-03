@@ -255,41 +255,6 @@ Scientometrics, 101(2), 1491-1513. doi: 10.1007/s11192-014-1264-0.
 
 
 
---- HeilingerJ_etal_2023 ---
-9 UNPARSED REFS
-  2.  Ataş, M., & Talay, A.: Development of automatic tree counting
-software from UAV based aerial images with machine learning.
-arXiv preprint https://
-  88. 34459 22(2021)
-
-  8.  Coeckelbergh, M.: AI for climate: freedom, justice, and other ethi-
-cal and political challenges. AI and Ethics 1(1), 67–72 (2021a).
-https:// doi.
-  12.  D’Ignazio, C., Klein, L.: Data Feminism. MIT Press, Cambridge
-
-(2022)
-
-  14.  European Group on Ethics in Science and New Technologies:
-Statement on artificial intelligence, robotics and ‘autonomous’
-systems. European Commi
-  10. 2777/ 531856
-
-  23.  Hickel, J.: Less is more: how degrowth will save the world. Pen-
-
-guin/Windmill, London (2020b)
-
-  43.  UCLG: United Cities and Local Governments. Culture. Fourth
-
-Pillar of Sustainable Development, Barcelona (2010)
-
-  45.  van Wynsberghe, A.: Sustainable AI: AI for sustainability and the
-sustainability of AI. AI Ethics 1(3), 213–218 (2021). https:// doi.
-org/ 10. 10
-
-
-
-
-
 
 --- (1974)  "The  use  of  social  science  information  by  federal  exeuctives" Pre-
 sented at the OECD Conference on Social Research and Public Policies, Dartmouth
