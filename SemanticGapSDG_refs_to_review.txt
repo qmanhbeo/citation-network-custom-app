@@ -21,48 +21,6 @@
   SustainableDevelopmentReport2019.NewYork,NY:BertelsmannStiftungand N.J.,etal.(2012).TheLeidenranking2011/2012:datacollection,indicators, SustainableDe
 
 
---- NedungadiP_etal_2024 ---
-49 UNPARSED REFS
-  [17] Zoran Babović et al., “Research in computing-intensive simulations
-Further studies can be conducted on a mechanism that for nature-oriented civil
-  [18] Miroslav Kosanic and V. Milutinovic, “A Survey on Mathematical
-REFERENCES Aspects of Machine Learning in GeoPhysics: The Cases of Weather
-  [1] Y. Xu et al., “Artificial Intelligence: a Powerful Paradigm for Forecast, Wind Energy, Wave Energy, Oil and Gas Exploration,”
-Scientific Research,
-  [2] R. Nishant, M. Kennedy, and J. Corbett, “Artificial intelligence for [19] J. T. Hancock, T. M. Khoshgoftaar, and J. M. Johnson, “Evaluating
-sustai
-  [20] J. Hancock, H. Wang, T. M. Khoshgoftaar, and Q. Liang, “Data [38] D. Si, “A Framework to analyze the Impacts of AI with the Sustainable
-reduction
-  [21] F. F. Costa, “Big data in biomedicine,” Drug Discovery Today, vol. [39] M.-L. How, S.-M. Cheah, Y.-J. Chan, A. C. Khor, and E. M. P. Say,
-19, no.
-  [24] J. Kandt and M. Batty, “Smart cities, big data and urban policy: Development Goals: Bibliometrics and Science Mapping Analysis,”
-Towards urban an
-  [25] D. Mhlanga, “Artificial Intelligence in the Industry 4.0, and Its Impact UN’s sustainable development goal,” Heliyon, vol. 9, no. 8, pp.
-on Pover
-  [26] R. Kusters et al., “Interdisciplinary Research in Artificial Intelligence: analysis,” Scientometrics, vol. 126, no. 6, pp. 5113–5142, Mar. 2021,
-
-  [27] J. Bajorath, “Artificial intelligence in interdisciplinary life science and Occupations (ANZSCO), Version 1.2, Australian Bureau of Statistics,
-d
-  [28] N. M. Safdar, J. D. Banja, and C. C. Meltzer, “Ethical Considerations artificial intelligence and sustainable development goals,” Heliyon, vol.
-i
-  [29] B. Murdoch, “Privacy and Artificial Intelligence: Challenges for sustainable development goals,” Sustainable Energy Technologies and
-Protecting H
-  [30] J. M. Johnson and T. M. Khoshgoftaar, “Data-Centric AI for Healthcare Knowledge to sustainable development goals,” Journal of Innovation &
-Fraud 
-  [31] D. Liu, H. Kong, X. Luo, W. Liu, and R. Subramaniam, “Bringing AI [48] N. J. van Eck and L. Waltman, “Software survey: VOSviewer, a
-to edge: From
-  [32] S. Weixing, L.-F. Li, F. Liu, M. He, and L. Lin, “AI on the edge: a [49] R. Egger and J. Yu, “A Topic Modeling Comparison Between LDA,
-comprehens
-  [33] R. Walshe, A. Koene, S. Baumann, M. Panella, L. Maglaras, and F. [50] Maarten Grootendorst, “BERTopic: Neural topic modeling with a class-
-Medeir
-  [34] Z. Chen, M. Wu, A. Chan, X. Li, and Y.-S. Ong, “Survey on AI Understanding,” arXiv.org, May 24, 2019.
-Sustainability: Emerging Trends on Learning
-  [35] F. Rohde, M. Gossen, J. Wagner, and T. Santarius, “Sustainability cognitive computing, vol. 7, no. 4, pp. 168–168, Oct. 2023, doi:
-challenges of 
-  [36] H. Guo, H. Hackmann, and K. Gong, “Big data in support of the experience through BERTopic and generative AI,” Journal of Retailing
-Sustainable De
-  [55] K. Kim, D. F. Kogler, and Sira Maliphol, “Identifying interdisciplinary [75] Habeeb Omotunde and M. R. Mouhamed, “The Modern Impact of
-emergence 
 
 --- VinuesaR_etal_2020 ---
 13 UNPARSED REFS
