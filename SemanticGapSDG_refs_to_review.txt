@@ -290,57 +290,6 @@ org/ 10. 10
 
 
 
---- CurleeK_etal_2024 ---
-17 UNPARSED REFS
-  [1] NIST AI. 2023. Artificial Intelligence Risk Management Framework (AI RMF 1.0).
-
-(2023).
-
-  [2] Sajid Ali, Tamer Abuhmed, Shaker El-Sappagh, Khan Muhammad, Jose M Alonso-
-Moral, Roberto Confalonieri, Riccardo Guidotti, Javier Del Ser, Natalia
-  [5] Science Australia Department of Industry and Resources. 2023. Australia’s AI
-Ethics Principles. https://legalinstruments.oecd.org/en/instruments/o
-  [6] Iz Beltagy, Kyle Lo, and Arman Cohan. 2019. SciBERT: Pretrained Language
-
-Model for Scientific Text. In EMNLP. arXiv:arXiv:1903.10676
-
-  [11] The White House. 2021. The United States, Joined by Allies and Partners,
-Attributes Malicious Cyber Activity and Irresponsible State Behavior to
-
-  [17] OECD. 2023. Recommendation of the Council on OECD Legal Instruments
-Artificial Intelligence. https://legalinstruments.oecd.org/en/instruments/oec
-  [18] The Government of Canada. 2019. Policy on Service and Digital. https://www.tbs-
-
-sct.canada.ca/pol/doc-eng.aspx?id=32603. Accessed: 2023-11-20.
-
-  [19] The Government of Canada. 2023. Directive on Automated Decision-Making.
-https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592. Accessed: 2023-1
-  [20] The Government of Canada. 2023. Privacy Act. https://laws-lois.justice.gc.ca.
-
-Accessed: 2023-11-20.
-
-  [21] The Government of Canada. 2023. Responsible Use of Artificial Intelligence,
-Guiding Principles.
-https://www.canada.ca/en/government/system/digita
-  [26] United Kingdom Information Commissioner’s Office and The Alan Tur-
-https:
-
-ing Institute. 2022.
-//ico.org.uk/for-organisations/uk-gdpr-guidance-a
-  [28] International Standards Organization. 2022. Trustworthiness — Vocabulary.
-https://www.iso.org/obp/ui/#iso:std:iso-iec:ts:5723:ed-1:v1:en. Accesse
-  [29] Cecilia Panigutti, Ronan Hamon, Isabelle Hupont, David Fernandez Llorca, Delia
-Fano Yela, Henrik Junklewitz, Salvatore Scalzo, Gabriele Mazzini, 
-  [30] Giada Pistilli, Carlos Muñoz Ferrandis, Yacine Jernite, and Margaret Mitchell.
-  2023. Stronger Together: on the Articulation of Ethical Charters, Legal Tools,
-and Technical Documentation in ML. In Proceedings of the 2023 ACM Confe
-  [32] Huw Roberts, Josh Cowls, Jessica Morley, Mariarosaria Taddeo, Vincent Wang,
-and Luciano Floridi. 2021. The Chinese approach to artificial intelli
-  [36]. Thus, we include EO13960 and the OMB guidance, but not
-EO13859, in our analysis.
-
-2233
-
 
 --- (1974)  "The  use  of  social  science  information  by  federal  exeuctives" Pre-
 sented at the OECD Conference on Social Research and Public Policies, Dartmouth

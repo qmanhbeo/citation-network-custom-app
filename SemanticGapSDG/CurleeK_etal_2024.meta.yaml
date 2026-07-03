@@ -1,6 +1,3 @@
-pid: CurleeK_etal_2024
-in_collection: true
-title: 'Trust Issues: Discrepancies in Trustworthy AI Keywords Use in Policy and Research'
 authors:
 - family: Curlee
   given: Kathleen
@@ -8,40 +5,48 @@ authors:
   given: Emelia
 - family: Toney-Wails
   given: Autumn
-year: '2024'
-file: CurleeK_etal_2024.pdf
 concepts:
 - research_policy_gap
 - science_policy
 - impact_assessment
+file: CurleeK_etal_2024.pdf
+in_collection: true
+pid: CurleeK_etal_2024
 references:
-- Standards_2017
-- Blair_2023
-- Science_2023
-- Australian_2023
-- Iz_2019
-- Feder_2022
-- James_2020
-- Francesca_2023
-- Japan_2019
-- The_2021
-- Anna_2019
-- Joe_2021
-- United_2018
-- Johann_2024
-- Gurmeet_2007
-- The_2019
-- The_2023
-- The_2023
-- The_2023
-- Executive_2019
-- Executive_2020
-- United_2018
-- United_2023
-- Japan_2022
-- International_2022
-- Charles_2023
-- Stephen_2020
-- Daniel_2020
-- Giulia_2021
-- Russell_2020
+- NISTAI_2023
+- AliS_etal_2023
+- IEEEStandardsAssociation_2017
+- ScienceAustraliaDepartmentofIndustryandResources_2023
+- BeltagyI_LoK_CohanA_2019
+- CooperAF_etal_2022
+- DunhamJ_etal_2020
+- FoffanoF_etal_2023
+- JapanCouncilForSocialPrinciplesOfHumanCentricAI_2019
+- TheWhiteHouse_2021
+- JobinA_etal_2019
+- KingJ_etal_2021
+- UnitedKingdom_2018
+- LauxJ_WachterS_MittelstadtB_2024
+- MankuGS_etal_2007
+- OECD_2023
+- TheGovernmentOfCanada_2019
+- TheGovernmentOfCanada_2023a
+- TheGovernmentOfCanada_2023b
+- TheGovernmentOfCanada_2023c
+- ExecutiveOfficeOfThePresident_2019
+- ExecutiveOfficeOfThePresident_2020
+- UnitedKingdomICO_2018
+- UnitedKingdomICO_2023
+- UnitedKingdomICO_ATI_2022
+- JapanExpertGroup_2022
+- ISO_2022
+- PaniguttiC_etal_2023
+- PistilliG_etal_2023
+- RadclyffeC_etal_2023
+- RobertsH_etal_2021
+- RobinsonSC_2020
+- SchiffD_etal_2020
+- ViloneG_LongoL_2021
+- VoughtTR_2020
+title: 'Trust Issues: Discrepancies in Trustworthy AI Keywords Use in Policy and Research'
+year: '2024'
