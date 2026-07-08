@@ -415,9 +415,9 @@ def cmd_viz(papers, pid=None, collection_only=False, concept=None, output=None, 
         size = max(10, min(50, 3 + deg * 2)) if in_coll else 8
         coll = p.get("_collection", "unknown")
         if uncited_flag:
-            color_hex = "#FB8C00" if coll == "SemanticGapSDG" else "#00897B"
+            color_hex = {"SemanticGapSDG": "#FB8C00"}.get(coll, "#00897B")
         elif in_coll:
-            color_hex = "#E53935" if coll == "SemanticGapSDG" else "#2196F3"
+            color_hex = {"SemanticGapSDG": "#E53935", "REPDelay": "#2E7D32"}.get(coll, "#1565C0")
         else:
             color_hex = "#B0BEC5"
         cs = p.get("concepts", [])
@@ -781,7 +781,7 @@ function filter() {{
     const vis = idsToShow.has(n.id);
     let color = n.color;
     if (vis && q) {{
-      if (n.uncited) color = '#00695C'; else if (n.in_collection) color = '#1565C0'; else color = '#78909C';
+      if (n.uncited) color = n.collection==='SemanticGapSDG'?'#FB8C00':'#00897B'; else if (n.in_collection) color = n.collection==='REPDelay'?'#2E7D32':n.collection==='SemanticGapSDG'?'#E53935':'#1565C0'; else color = '#78909C';
     }} else if (!vis) {{
       color = '#f0f0f0'; // nearly invisible
     }}
