@@ -640,7 +640,7 @@ DATA.collections.forEach(coll => {{
   ['ic', 'uncited', 'stub'].forEach(tier => {{
     const label = document.createElement('label');
     label.className = 'tgl';
-    label.innerHTML = `<input type="checkbox" checked onchange="filter()" data-combo="${{coll}}_${{tier}}"> <span>${{coll}} ${{tierLabels[tier]}} <b>(${{counts[tier]}})</b></span>`;
+    label.innerHTML = `<input type="checkbox" ${{tier === 'stub' ? '' : 'checked'}} onchange="filter()" data-combo="${{coll}}_${{tier}}"> <span>${{coll}} ${{tierLabels[tier]}} <b>(${{counts[tier]}})</b></span>`;
     collTogglesDiv.appendChild(label);
   }});
 }});
@@ -804,7 +804,7 @@ function resetView() {{
   document.getElementById('concept').value = '';
   document.getElementById('region').value = '';
   document.getElementById('minCit').value = 0;
-  document.querySelectorAll('#collection-toggles input[type=checkbox]').forEach(cb => cb.checked = true);
+  document.querySelectorAll('#collection-toggles input[type=checkbox]').forEach(cb => cb.checked = !cb.dataset.combo.endsWith('_stub'));
   document.getElementById('yearLo').value = DATA.minYear;
   document.getElementById('yearHi').value = DATA.maxYear;
   document.querySelectorAll('#types input[type=checkbox]').forEach(cb => cb.checked = true);
