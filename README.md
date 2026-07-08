@@ -60,7 +60,7 @@ PIDs are the primary key across collections. Every entity must follow these rule
 ~/citation-network/
 ├── lit.py                     # CLI tool
 ├── AGENTS.md
-├── citation_network.html      # all-collections viz
+├── network_citation.html      # all-collections viz
 ├── checklist.md
 ├── checklist_bibliography.md
 ├── {CollectionName}/           # cited in-collection papers
@@ -128,7 +128,7 @@ lit list --concept=energy_poverty   # filter by concept/region/type
 lit concepts                        # all concepts with counts
 
 lit viz                             # generate vis.js HTML (all collections)
-lit viz --collection=EnergyBurden   # generates EnergyBurden_network.html
+lit viz --collection=EnergyBurden   # generates network_EnergyBurden.html
 lit viz --pid=DrehoblA_etal_2020    # ego network
 ```
 

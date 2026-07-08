@@ -1,0 +1,74 @@
+# Concept vocabulary for REPDelay (Renewable Energy Project Delays) literature graph
+
+impacts:
+  social_impact:
+    label: "Social impact"
+    desc: "Social consequences of renewable energy projects on local communities"
+  economic_impact:
+    label: "Economic impact"
+    desc: "Local economic effects including employment, income, and development"
+  environmental_impact:
+    label: "Environmental impact"
+    desc: "Environmental consequences of energy project development"
+  displacement:
+    label: "Displacement and resettlement"
+    desc: "Population displacement caused by energy infrastructure projects"
+  livelihood:
+    label: "Livelihood changes"
+    desc: "Changes in local livelihoods due to energy project development"
+  community_acceptance:
+    label: "Community acceptance"
+    desc: "Local community attitudes toward renewable energy projects"
+
+project_implementation:
+  construction_delays:
+    label: "Construction delays"
+    desc: "Delays in construction timelines for energy projects"
+  project_financing:
+    label: "Project financing"
+    desc: "Financial and investment aspects of renewable energy projects"
+  policy_regulation:
+    label: "Policy and regulation"
+    desc: "Policy frameworks, regulations, and governance affecting project deployment"
+  infrastructure:
+    label: "Infrastructure"
+    desc: "Energy infrastructure, grid connection, and network capacity"
+  auction_design:
+    label: "Auction design"
+    desc: "Electricity auction mechanisms and their impact on project completion"
+
+energy_types:
+  hydropower:
+    label: "Hydropower"
+    desc: "Large and small hydropower projects"
+  wind_energy:
+    label: "Wind energy"
+    desc: "Onshore and offshore wind power development"
+  solar_energy:
+    label: "Solar energy"
+    desc: "Solar PV and concentrating solar power projects"
+  renewable_energy:
+    label: "Renewable energy"
+    desc: "General renewable energy sources"
+
+justice_transition:
+  energy_justice:
+    label: "Energy justice"
+    desc: "Distributional, procedural, and recognition justice in energy transitions"
+  just_transition:
+    label: "Just transition"
+    desc: "Fair and equitable transition to low-carbon energy systems"
+  indigenous_rights:
+    label: "Indigenous rights"
+    desc: "Rights and impacts on indigenous communities from energy projects"
+
+spatial_context:
+  rural_development:
+    label: "Rural development"
+    desc: "Energy project effects on rural areas and communities"
+  local_development:
+    label: "Local development"
+    desc: "Local economic and social development effects"
+  global_south:
+    label: "Global South"
+    desc: "Developing country context for energy project impacts"

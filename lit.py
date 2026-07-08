@@ -37,6 +37,7 @@ def register_collection(name, base_dirname):
 
 register_collection("EnergyBurden", "EnergyBurden")
 register_collection("SemanticGapSDG", "SemanticGapSDG")
+register_collection("REPDelay", "REPDelay")
 
 def load_vocab(collection=None):
     vocab = {}
@@ -365,9 +366,9 @@ def cmd_stats(papers):
 def cmd_viz(papers, pid=None, collection_only=False, concept=None, output=None, collection=None):
     if output is None:
         if collection:
-            output = os.path.join(LIT_DIR, f"{collection}_network.html")
+            output = os.path.join(LIT_DIR, f"network_{collection}.html")
         else:
-            output = os.path.join(LIT_DIR, "citation_network.html")
+            output = os.path.join(LIT_DIR, "network_citation.html")
     # filter nodes
     nodes = {}
     for pid0, p in papers.items():

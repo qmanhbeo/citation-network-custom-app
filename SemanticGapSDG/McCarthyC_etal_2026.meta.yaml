@@ -1,0 +1,65 @@
+authors:
+- family: McCarthy
+  given: Chris
+- family: Brooks
+  given: Cassandra
+- family: Sternberg
+  given: Troy
+- family: Shaney
+  given: Kyle
+- family: Hoshino
+  given: Buho
+concepts:
+- artificial_intelligence
+- conservation_science
+- science_policy
+- automated_classification
+- marine_protected_areas
+file: McCarthyC_etal_2026.pdf
+in_collection: true
+pid: McCarthyC_etal_2026
+references:
+- AinleyDG_etal_2024
+- AriaM_CuccurulloC_2017
+- AtalayA_etal_2025
+- BeltagyI_LoK_CohanA_2019
+- BenderEM_etal_2021
+- BrooksCM_AinleyDG_2022
+- CCAMLR_2016
+- ChalkidisI_etal_2020
+- ChengSH_etal_2018
+- CookCN_etal_2013
+- CvitanovicC_etal_2016
+- DunnA_VacchiM_WattersG_2017
+- FinucciB_ChinC_ONeillHL_etal_2024
+- GilClavelS_FilatovaT_2023
+- GillDA_etal_2017
+- GuptaT_ZakiM_KrishnanNMA_Mausam_2022
+- JonesKR_etal_2018
+- KaymazMuhlingSM_2023
+- KopperudBT_LidgardS_LiowLH_2022
+- LemosMC_etal_2018
+- LikharevaD_SankaranH_ThiyagarajanS_2024
+- LinTY_etal_2017
+- MarineConservationInstitute_2024
+- MeiteiAJ_RaiP_RajkishanSS_2023
+- MinutoliR_etal_2024
+- PikeEP_etal_2024
+- PiwowarH_etal_2018
+- ReynoldsSA_etal_2025
+- RogersA_KovalevaO_RumshiskyA_2020
+- RuderS_2017
+- SaboAN_BergerTalO_BlumsteinDT_etal_2024
+- SachsJD_etal_2019
+- SutherlandWJ_PullinAS_DolmanPM_KnightTM_2004
+- ToomeyAH_KnightAT_BarlowJ_2017
+- UNEPWCMC_IUCN_2021
+- UnitedNations_2015
+- VinuesaR_etal_2020
+- VisviziA_2022
+- WangD_etal_2020
+- WestgateMJ_BartonPS_PiersonJC_LindenmayerDB_2015
+- ZhangY_YangQ_2017
+- ZhangML_ZhouZH_2014
+title: 'AI-assisted multi-target classification for research-policy alignment in conservation science'
+year: '2026'

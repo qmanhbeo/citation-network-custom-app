@@ -1,0 +1,222 @@
+authors:
+- family: Grieve
+  given: Jack
+- family: Bartl
+  given: Sara
+- family: Fuoli
+  given: Matteo
+- family: Grafmiller
+  given: Jason
+- family: Huang
+  given: Weihang
+- family: Jawerbaum
+  given: Alejandro
+- family: Murakami
+  given: Akira
+- family: Perlman
+  given: Marcus
+- family: Roemling
+  given: Dana
+- family: Winter
+  given: Bodo
+concepts:
+- sociolinguistics
+- language_models
+- nlp
+- linguistic_variation
+- natural_language_processing
+file: GrieveJ_etal_2025.pdf
+in_collection: true
+pid: GrieveJ_etal_2025
+references:
+- AchiamJ_etal_2023
+- AggarwalD_etal_2024
+- AitkenAJ_1985
+- BaackS_2024
+- BahriY_etal_2024
+- BalloccuS_etal_2024
+- BammanD_etal_2014
+- BellA_etal_2016
+- BenderEM_etal_2021
+- BengioY_etal_2003
+- BerberSardinhaT_2018
+- BershatskyD_etal_2024
+- BevendorffJ_etal_2024
+- BianN_etal_2023
+- BiberD_1989
+- BiberD_1991
+- BiberD_1993
+- BiberD_1995
+- BiberD_etal_2005
+- BiberD_ConradS_2019
+- BiberD_EgbertJ_2018
+- BiberD_etal_2021
+- BirhaneA_etal_2023
+- BlodgettSL_2021
+- BlodgettSL_etal_2020
+- BlodgettSL_etal_2016
+- BlodgettSL_OConnorB_2017
+- BommasaniR_etal_2021
+- BordiaS_BowmanSR_2019
+- BrownTB_etal_2020
+- BybeeJ_2015
+- CabreraJ_etal_2023
+- CaliskanA_etal_2017
+- CampbellL_2013
+- ChambersJK_TrudgillP_1998
+- ChehbouniK_etal_2024
+- ChenB_etal_2023
+- ChenZ_etal_2024
+- ChristianB_2021
+- ClarkeI_2022
+- ClarkeI_GrieveJ_2017
+- CrawfordK_2017
+- CroftW_2000
+- CruzCastroJ_etal_2024
+- CrystalD_2011
+- CrystalD_DavyD_1969
+- DathathriS_etal_2024
+- DaumeIIIH_2007
+- DegaetanoOrtliebS_TeichE_2018
+- DemszkyD_etal_2023
+- DentellaV_etal_2023
+- DevS_etal_2022
+- DevlinJ_etal_2018
+- DonosoG_SanchezD_2017
+- DungL_2023
+- EckertP_2012
+- EckertP_2018
+- EhretK_2021
+- EisensteinJ_2017
+- EisensteinJ_etal_2014
+- EvansO_etal_2021
+- FerraraE_2023
+- GabrielI_2020
+- GaoL_etal_2020
+- GordonMJ_2017
+- GriesST_HilpertM_2008
+- GrieveJ_2016
+- GrieveJ_2023
+- GrieveJ_etal_2010
+- GrieveJ_etal_2023
+- GrieveJ_etal_2019
+- GrieveJ_etal_2017
+- GrieveJ_etal_2018
+- GuoY_YangY_2024
+- GururanganS_etal_2020
+- HallidayMA_1989
+- HallidayMAK_HasanR_1976
+- HaqueMA_LiS_2024
+- HardyM_etal_2023
+- HartmannRRK_StorkFC_1972
+- HeadCB_etal_2023
+- HendrycksD_etal_2020
+- HoffmannJ_etal_2022
+- HofmannV_etal_2024
+- HortonJJ_2023
+- HouZ_etal_2022
+- HovyD_2018
+- HovyD_PrabhumoyeS_2021
+- HovyD_SogaardA_2015
+- HovyD_YangD_2021
+- HuEJ_etal_2021
+- HuangC_etal_2024
+- HuangH_etal_2024
+- HuangW_GrieveJ_2024
+- HuangW_etal_2024
+- HuangY_etal_2016
+- HuangY_etal_2024
+- IlburyC_2020
+- JacksonH_2007
+- JiangAQ_etal_2023
+- JiaoJ_etal_2024
+- JorgensenJN_etal_2015
+- JosephBD_etal_2003
+- JurafskyD_MartinJH_2023
+- JurgensD_etal_2017
+- KaplanJ_etal_2020
+- KasneciE_etal_2023
+- KershawD_etal_2016
+- KirchenbauerJ_etal_2023
+- KocijanV_2021
+- LabovW_1973
+- LabovW_1986
+- LabovW_etal_2006
+- LahotiP_etal_2023
+- LassR_1997
+- LehmanE_etal_2023
+- LehmannWP_2013
+- LeidingerA_RogersR_2024
+- LiC_FlaniganJ_2024
+- LiH_etal_2023
+- LiM_etal_2024
+- LiY_etal_2022
+- LiimattaA_2019
+- LiuR_etal_2023
+- LiuR_etal_2022
+- LiuY_etal_2024
+- LundBD_etal_2023
+- LuoH_etal_2024
+- MahapatraA_etal_2022
+- MarcusG_etal_2023
+- MartinJR_2001
+- MatthewsPH_1997
+- MatthiessenCM_2015
+- MavrodievaI_2023
+- McEneryT_WilsonA_2001
+- McEneryT_etal_2006
+- MeyerhoffM_2018
+- MichaelovJA_etal_2024
+- NavigliR_etal_2023
+- NaziZA_PengW_2024
+- NevalainenT_RaumolinBrunbergH_2016
+- NgoR_etal_2022
+- NguyenD_etal_2016
+- NguyenD_etal_2021
+- NirmalA_2024
+- OpenAI_2022
+- OuyangL_etal_2022
+- PavalanathanU_EisensteinJ_2015
+- PavlikJV_2023
+- PerezJM_etal_2024
+- PiantadosiS_2023
+- RadfordA_etal_2019
+- RaffelC_etal_2020
+- RameshK_etal_2023
+- RayPP_2023
+- RothlisbergerM_SzmrecsanyiB_2020
+- RudnickyA_1995
+- RussellSJ_NorvigP_2016
+- SalazarJ_etal_2019
+- SampsonG_2002
+- SardanaN_FrankleJ_2023
+- SardinhaTB_PintoMV_2014
+- ScholzBC_etal_2024
+- SchramowskiP_etal_2022
+- ShahDS_etal_2020
+- ShenT_etal_2023
+- ShumailovI_etal_2023
+- SolaimanI_DennisonC_2021
+- StefanR_etal_2023
+- StewartI_EisensteinJ_2018
+- TagliamonteSA_2006
+- TagliamonteSA_2011
+- ThirunavukarasuAJ_etal_2023
+- TonmoySM_etal_2024
+- TouvronH_etal_2023
+- TsvilodubP_etal_2024
+- VaswaniA_etal_2017
+- WangB_KomatsuzakiA_2021
+- WangT_etal_2024
+- WangY_etal_2023
+- WardhaughR_FullerJM_2021
+- WeertsHJ_2021
+- WielingM_NerbonneJ_2015
+- WienerN_1960
+- WolfY_etal_2023
+- XuA_etal_2021
+- YangD_etal_2024
+- YigciD_etal_2024
+- YogarajanV_etal_2023
+title: 'The sociolinguistic foundations of language modeling'
+year: '2025'

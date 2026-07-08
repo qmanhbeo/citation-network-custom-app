@@ -1,0 +1,81 @@
+authors:
+- family: Koundouri
+  given: Phoebe
+- family: Alamanos
+  given: Angelos
+- family: Plataniotis
+  given: Angelos
+- family: Stavridis
+  given: Charis
+- family: Perifanos
+  given: Konstantinos
+- family: Devves
+  given: Stathis
+concepts:
+- machine_learning
+- text_mining
+- sdg
+- european_green_deal
+- policy_alignment
+file: KondouriP_etal_2024.pdf
+in_collection: true
+pid: KondouriP_etal_2024
+references:
+- EuropeanCommission_2019
+- BrundtlandGH_1987
+- AlamanosA_2021a
+- AlamanosA_LinnaneS_2021
+- UnitedNations_2015a
+- DeNeveJE_SachsJD_2020
+- WangX_etal_2021
+- BiermannF_etal_2022
+- SachsJD_etal_2019
+- vonderLeyenU_2019
+- EuropeanCommission_2020
+- NunesAR_LeeK_ORiordanT_2016
+- MesserliP_etal_2019
+- BreuerA_JanetschekH_MalerbaD_2019
+- NatureSustainability_2022a
+- LealFilhoW_etal_2020
+- KlokeLeschA_2018
+- HametnerM_KostetckaiaM_2020
+- WoodR_etal_2018
+- CabernardL_PfisterS_OberschelpC_HellwegS_2022
+- SiddiM_2020
+- DzeboA_2022
+- BiggeriM_ClarkDA_FerranniniA_MauroV_2019
+- MauriceJ_2016
+- KostetckaiaM_HametnerM_2022
+- vonHomeyerI_OberthurS_DupontC_2022
+- PietzckerRC_OsorioS_RodriguesR_2021
+- LeonardM_PisaniFerryJ_ShaliroJ_etal_2021
+- ShevchenkoH_PetrushenkoM_BurkynskyiB_KhumarovaN_2021
+- BorchardtS_etal_2022
+- XuZ_etal_2020
+- VinuesaR_etal_2020
+- GoldbergY_2022
+- MatsuiT_etal_2022
+- HajikhaniA_SuominenA_2021
+- PorcielloJ_IvaninaM_IslamM_etal_2020
+- SmithTB_VaccaR_MantegazzaL_CapuaI_2021
+- DiLuciaL_SladeR_KhanJ_2022
+- HafnerM_RaimondiPP_2020
+- PapadisE_TsatsaronisG_2020
+- FankhauserS_etal_2022
+- ArmstrongC_McLarenD_2022
+- KhoslaR_LezaunJ_McGivernA_OmukutiJ_2023
+- OBeirneP_etal_2020
+- NatureSustainability_2023
+- EURLex_2024
+- LeCunY_BengioY_HintonG_2015
+- GoodfellowI_BengioY_CourvilleA_2016
+- DevlinJ_ChangMW_LeeK_ToutanovaK_2018
+- OSDG_UNDPIICPSDSDGAILab_PPMI_2021
+- PukelisL_PuigNB_SkrynikM_StanciauskasV_2020
+- SDGPathfinder_2023
+- UnitedNations_2022
+- RitchieR_MispyOO_2018
+- PyTorch_2023
+- KingmaD_LeiBaJ_2017
+title: Assessing the sustainability of the European Green Deal and its interlinkages with the SDGs
+year: '2024'
